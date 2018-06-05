@@ -1,4 +1,4 @@
-<center>**ALZA Design Doc**</center>
+**ALZA Design Doc**
 
 *Alza Lab*
 
