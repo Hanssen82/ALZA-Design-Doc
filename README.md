@@ -1,3 +1,9 @@
+**ALZA Design Doc**
+
+*Alza Lab*
+
+*Last Updated: 2018-05-29*
+
 #### Table of contents
 - [**Objective**](#**Objective**)
 - [**Overview**](#**Overview**)
@@ -54,12 +60,6 @@
         - [System Stability](#System-Stability)
         - [Network Performance](#Network-Performance)
 - [**Security Considerations**](#**Security-Considerations**)
-
-**ALZA Design Doc**
-
-*Alza Lab*
-
-*Last Updated: 2018-05-29*
 
 # **Objective**
 
